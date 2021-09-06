@@ -192,6 +192,9 @@ body._pc .li__a:hover{
     opacity: 0.9;
     box-shadow: 0 0 10px rgb(255, 102, 0);
 }
+.swiper-wriper{
+ 	overflow: hidden;
+}
 .subLinks__li{
     padding: 16px;
     display: flex;
